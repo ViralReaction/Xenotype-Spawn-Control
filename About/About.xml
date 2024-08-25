@@ -4,6 +4,7 @@
 	<packageId>bs.xenotypespawncontrol</packageId>
 	<supportedVersions>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 	<author>bradson</author>
 	<url>https://github.com/bbradson/Xenotype-Spawn-Control</url>

@@ -393,7 +393,7 @@ public class Dialog_Templates<T> : Window where T : Def
 			{
 				SaveTemplate(templateKeyValuePair.Key);
 			}
-			if (Widgets.ButtonImage(firstIconButtonRect, TexButton.DeleteX))
+			if (Widgets.ButtonImage(firstIconButtonRect, TexButton.Delete))
 			{
 				XenotypeChanceDatabases.Templates.Remove(templateKeyValuePair.Key);
 			}
